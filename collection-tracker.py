@@ -11,7 +11,6 @@ skill = "farming"  # replace with the skill you want to track
 webhook_url = ''  # replace with your Discord webhook URL
 # END OF SETTINGS
 
-print(f"Hello {username}")
 print(f"Your username is: {username}")
 print(f"You are tracking the '{skill}' skill")
 print(f"You are using the '{profile}' profile and tracking the '{collection}' collection.")
